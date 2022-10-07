@@ -9,4 +9,4 @@
 - Contains HOME, ABOUT US, FITNESS CALCULATOR, CONTACT US, BUTTONS and other sections.
 
 ##### Website Screeshot
-<img src="C:\Users\Tariq\Pictures\ScreenshotsScreenshot(308).png">
+<img src="C:\Users\Tariq\Pictures\Screenshots">
