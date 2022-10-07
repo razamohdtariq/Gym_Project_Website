@@ -8,5 +8,5 @@
 - Unique and Dynamic Design.
 - Contains HOME, ABOUT US, FITNESS CALCULATOR, CONTACT US, BUTTONS and other sections.
 
-##### Website Screeshot
+### Website Screeshot
 <img src="C:\Users\Tariq\Pictures\Screenshots">
