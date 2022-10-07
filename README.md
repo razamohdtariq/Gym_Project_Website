@@ -1,8 +1,8 @@
 # Gym_Project_Website
 ## Technologies Used:
 ### 
--HTML5
--CSS3
+- HTML5
+- CSS3
 ### Silent Features
 Responsive Design
 Unique and Dynamic Design
